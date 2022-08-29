@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadafsaleem123
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Computer Networking.
-- 🌱 I’m currently learning Data Science from Data Yard.
+- 🌱 I’m currently learning Data Science from Data Camp.
 - 📫 Email: sadafsaleem5815@gmail.com
 
 <!---
