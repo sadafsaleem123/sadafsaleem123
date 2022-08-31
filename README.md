@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadaf Saleem</h1>
 <h3 align="center">A passionate data science enthusiast from Pakistan.</h3>
 
-- 🌱 I’m currently learning **data science with python on data camp.**
+- 🌱 I’m currently learning **data science from data camp.**
 
 - 📫 How to reach me **sadafsaleem5815@gmail.com**
 
